@@ -1,0 +1,11 @@
+{
+  "name": "sample-express",
+  "version": "1.0.0",
+  "description": "hello express",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
